@@ -1,0 +1,29 @@
+{
+    "category":[
+        {
+            "category_id": 1,
+            "category_name": "Holiday",
+            "category_img": "https://i.ibb.co/KKsmtnQ/holiday.jpg"
+        },
+        {
+            "category_id": 2,
+            "category_name": "Travel",
+            "category_img": "https://i.ibb.co/h7R0jrf/travel.jpg"
+        },
+        {
+            "category_id": 3,
+            "category_name": "Business",
+            "category_img": "https://i.ibb.co/sCPZgS3/business.jpg"
+        },
+        {
+            "category_id": 4,
+            "category_name": "Luxury",
+            "category_img": "https://i.ibb.co/p3TNWy9/luxury.jpg"
+        },
+        {
+            "category_id": 5,
+            "category_name": "Adventure",
+            "category_img": "https://i.ibb.co/FbS4JRv/heaven.jpg"
+        }
+    ]
+}

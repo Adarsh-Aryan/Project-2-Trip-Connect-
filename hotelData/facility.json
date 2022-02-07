@@ -1,0 +1,51 @@
+[
+    {
+        "fac_id":"1",
+        "fac_name":"Free Parking"
+
+    },
+
+    {
+        "fac_id":"2",
+        "fac_name":"Restaurant"
+    },
+
+    {
+        "fac_id":"3",
+        "fac_name":"Fitness Center"
+    },
+
+    {
+        "fac_id":  "4",
+        "fac_name":"Free Wifi"  
+    },
+
+    {
+        "fac_id":"5",
+        "fac_name":"Swimming Pool"
+    },
+
+    {
+        "fac_id":"6",
+        "fac_name":"24 hour front desk"
+    },
+
+    {
+        "fac_id":"7",
+        "fac_name":"Room Service"
+    },
+    {
+        "fac_id":"8",
+        "fac_name":"Wellness Center"
+    }
+    ,
+    {
+        "fac_id":"9",
+        "fac_name":"Non Smoking Rooms"
+    },
+    {
+        "fac_id":"10",
+        "fac_name":"Airport Shuttle"
+    }
+    
+]

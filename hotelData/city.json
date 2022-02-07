@@ -1,0 +1,41 @@
+[
+    {
+        "location_id":1,
+        "city_name":"Goa",
+        "city_id":1,
+        "country_name":"India"
+
+    },
+    {
+        "location_id":2,
+        "city_name":"Mumbai",
+        "city_id":2,
+        "country_name":"India"
+    },
+    {
+        "location_id":3,
+        "city_name":"Delhi",
+        "city_id":3,
+        "country_name":"India"
+    },
+    {
+        "location_id":4,
+        "city_name":"Lonavala",
+        "city_id":4,
+        "country_name":"India"
+    },
+    {
+        "location_id":5,
+        "city_name":"Shimla",
+        "city_id":5,
+        "country_name":"India"
+    },
+    {
+        "location_id":6,
+        "city_name":"Jaipur",
+        "city_id":6,
+        "country_name":"India"
+        
+    }
+
+]

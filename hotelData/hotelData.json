@@ -1,0 +1,2646 @@
+[
+    {
+        "hotel_id":"1",
+        "hotel_name":"Hotel Tara Regency",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/f0fyjPL/Hotel-Tara-Regency.webp",
+        "cost":"1428",
+        "rating":"3.2",
+        "rating-text":"Fair",
+        "address":"Chandigarh, Kalka - Shimla Rd, near sankat mochan, Shimla, Himachal Pradesh 171010",
+        
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+    
+
+    },
+    {
+        "hotel_id":"2",
+        "hotel_name":"Aachman Nature Valley Resort",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/xHtcKPD/Nature-Valley-Resort.webp",
+        "cost":"4645",
+        "contact":"9354352000",
+        "rating":"4.1",
+        "rating-text":"Very Good",
+        "address":"Vill. Dhagogi ,P.O. Baldeyan Teh. & Distt. Shimla - 171007, Mashobra, Himachal Pradesh 171007",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"3",
+        "hotel_name":"Nishat-Boho",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/BwJf6Rm/Nishat-Boho.webp",
+        "cost":"2100",
+        "rating":"3.2",
+        "rating-text":"Good",
+        "address":"Mall Rd, near Kalibari Temple, Fingask Estate, Shimla, Himachal Pradesh 171003",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"6",
+                "fac_name":"24 hour front Desk"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"4",
+        "hotel_name":"Magic Stays Royal",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/FKddC2H/Magic-Stays-Royale.webp",
+        "rating":"3.6",
+        "rating-text":"Fair",
+        "cost":"3474",
+        "address":"Timber House, Below Yes bank, Near Bambloe Shima HP, 171001 Shimla, India",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"6",
+                "fac_name":"24 hour front desk"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"5",
+        "hotel_name":"OYO flagship Hotel",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "rating":"4.0",
+        "rating-text":"Very Good",
+        "hotel_img":"https://i.ibb.co/6Y4P8zW/OYO-flagship-hotel.webp",
+        "cost":"1500",
+        "address":"",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"6",
+                "fac_name":"24 hour front Desk"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"6",
+        "hotel_name":"Snow Valley Resort",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/5Ws1WJN/Snow-Valley-Resort-Shimla.webp",
+        "cost":"7050",
+        "address":"Ghora Chowki, Shimla, Himachal Pradesh 171004",
+        "contact":"0177 263 3322",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"7",
+        "hotel_name":"Grand Hyatt",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/QM3FHPp/Grand-Hyatt.webp",
+        "cost":"6900",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Grand Hyatt Mumbai Hotel and Residences Bandra Kurla Complex Vicinity, Off, Western Express Hwy, Santacruz East, Mumbai, Maharashtra 400055",
+        "contact":"022 6676 1234",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Roomss"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            }
+            
+        ]
+
+    },
+    {
+        "hotel_id":"8",
+        "hotel_name":"Hotel Sahara",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/7WWvQWM/Hotel-Sahara.webp",
+        "cost":"5900",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Nehru Rd, opp. Domestic Airport, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+        "contact":"022 3989 5000",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Roomss"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"9",
+        "hotel_name":"ITC Grand",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/prL7QtT/ITC-Grand.webp",
+        "cost":"4926",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"Dr 287, Dr Baba Saheb Ambedkar Rd, Parel, Mumbai, Maharashtra 400012",
+        "contact":"022 2410",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"Wellness Center",
+                "fac_name":"8"
+            },
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"10",
+        "hotel_name":"St.Regis",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/jV91PQR/St-Regis.webp",
+        "cost":"8455",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",
+        "contact":"022 6162",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"11",
+        "hotel_name":"Indie Stays",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/wLKGyT5/Indie-Stays.webp",
+        "cost":"2357",
+        "rating":"4.1",
+        "rating-text":"Very Good",
+        "address":"CTS 5447A, CST Road, Next to CENTRUM HOUSE, Kolivery Village, MMRDA Area, Kalina, Santacruz East, Mumbai, Maharashtra 400098",
+        "contact":"022 6860 6860",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"Free Wifi",
+                "fac_name":"4"
+            },
+            {
+                "fac_id":"6",
+                "fac_name":"24 hour front Desk"
+                
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+            
+        ]
+
+    },
+    {
+        "hotel_id":"12",
+        "hotel_name":"Trident Bandra Kurla",
+        "city_name":"Mumbai",
+        "city_id":"2",
+        "hotel_img":"https://i.ibb.co/WzPQ2y9/Trident-Bundra.webp",
+        "cost":"5056",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"C 56, Trident Road, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098",
+        "contact":"022 6672 7777",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"13",
+        "hotel_name":"Arya Niwas",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/WvyLC65/Arya-Niwas.webp",
+        "cost":"1792",
+        "rating":"4.3",
+        "rating-text":"Very Good",
+        "address":"Sansar Chandra Rd, behind Amber Tower, Pink City, Jaipur, Rajasthan 302001",
+        "contact":"098290 40549",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"14",
+        "hotel_name":"Atithi Guest House",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/D5QCv6N/Atithi-Guest-House.webp",
+        "cost":"693",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"Park House Scheme, Opposite All India Radio, M.I. Road, 302001 Jaipur, India ",
+        "contact":"0141 237 8679",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"15",
+        "hotel_name":"Hotel Kalyan",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/3NkfBMK/Hotel-Kalyan.webp",
+        "cost":"767",
+        "rating":"4.2",
+        "rating-text":"Very Good",
+        "address":"Hathroi Fort, Ajmer Road, 302001 Jaipur,India",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"16",
+        "hotel_name":"Nirwana Hometel",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/Q9Wty04/Nirwana-Hometel.webp",
+        "cost":"1950",
+        "rating":"4.1",
+        "rating-text":"Very Good",
+        "address":"4 D-Villa, Khasa Kothi Circle, Station Rd, Bani Park, Jaipur, Rajasthan 302001",
+        "contact":"0141 444 5000",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"17",
+        "hotel_name":"Hotel Siddharsh Heritage",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/r7zycxn/Hotel-Siddharsh.webp",
+        "cost":"2464",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Opposite Airport Terminal, Street Number 1, Jaipur, Rajasthan 302029",
+        "contact":"063787 89646",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"18",
+        "hotel_name":"Jaipur Marriott Hotel",
+        "city_name":"Jaipur",
+        "city_id":"6",
+        "hotel_img":"https://i.ibb.co/wsQ813L/Jaipur-Marriott-Hotel.webp",
+        "cost":"5384",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Ashram Marg, near Jawahar Circle, Jai Jawan-2, Choti Chopad, Chandrakala Colony, Durgapura, Jaipur, Rajasthan 302015",
+        "contact":"0141 456 7777",
+        
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"19",
+        "hotel_name":"Blue Peral",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/4psMP7M/Blue-Peral.webp",
+        "cost":"1555",
+        "rating":"3.4",
+        "rating-text":"Fair",
+        "address":"8653-8664 Arakashan Road, Ram Nagar, Paharganj, New Delhi, 110055 Near St. Anthony Girls' Senior Secondary School, Paharganj, New Delhi, Delhi 110055",
+        "contact":"070116 73736",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"20",
+        "hotel_name":"Hotel Saket",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/W547JfT/Hotel-Saket.webp",
+        "cost":"5618",
+        "rating":"4.1",
+        "rating-text":"Very Good",
+        "address":"J-27, Mandir Marg, Block J, Saket, New Delhi, Delhi 110017",
+        "contact":"011 4797 4797",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+    },
+    {
+        "hotel_id":"21",
+        "hotel_name":"Rockland Hotel",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/kJdmMyh/Rockland-Hotel.webp",
+        "cost":"2477",
+        "rating":"4.0",
+        "rating-text":"Very Good",
+        "address":"B207, Outer Ring Rd, Block B, Chittaranjan Park, New Delhi, Delhi 110019",
+        "contact":"011 4272 2222",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"22",
+        "hotel_name":"The Clardiges New Delhi",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/3djxRjL/Clardiges.webp",
+        "cost":"5292",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"12, Dr APJ Abdul Kalam Rd, Tees January Road Area, Motilal Nehru Marg Area, New Delhi, Delhi 110011",
+        "contact":"011 3955 5000",
+
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"23",
+        "hotel_name":"Aloft Aerocity",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/JkMv7s3/Aloft-Aerocity.webp",
+        "cost":"4193",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"5B IGI T3 Road Delhi, Aerocity, New Delhi, Delhi 110037",
+        "contact":"011 4565 0000",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"24",
+        "hotel_name":"Hotel Viva Palace",
+        "city_name":"Delhi",
+        "city_id":"3",
+        "hotel_img":"https://i.ibb.co/Wg0gbx1/Hotel-Viva-Palace.webp",
+        "cost":"1258",
+        "rating":"3.9",
+        "rating-text":"Good",
+        "address":"443, Street Number 7 L 74 block, Mahipalpur Near IGI Airport (T3, Mahipalpur Extension, New Delhi, Delhi 110037",
+        "contact":"084489 82320",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"25",
+        "hotel_name":"Bhankharia Residency",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/W5z8jFF/Bhan-Kharia-Residency.webp",
+        "cost":"2359",
+        "rating":"3.1",
+        "rating-text":"Fair",
+        "address":"SECTOR E, PLOT NO 17BC, Mumbai - Pune Expy, Gold Valley, Lonavla,",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"26",
+        "hotel_name":"Butterfly Villa",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/1MT5jqS/Butterfly-Villa.webp",
+        "cost":"854",
+        "rating":"3.0",
+        "rating-text":"Fair",
+        "address":"Nangargaon, near A1 icecream, Jadhav Colony, Lonavla, Maharashtra 410401",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"27",
+        "hotel_name":"Green Fog Guest House",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/prrB4Hs/Green-Fog-Guesthouse.webp",
+        "cost":"1512",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"ambavane village, near Aamby Valley City, Lonavla, Maharashtra 412213",
+        "contact":"098929 95031",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            }
+            ,
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"28",
+        "hotel_name":"Meritas Adore Resort",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/qmZmXWW/Meritas-Resort.webp",
+        "cost":"3330",
+        "rating":"4.2",
+        "rating-text":"Very Good",
+        "address":"Tungarli Rd, behind Narayani Dham Temple, Parsi Colony, Lonavla, Maharashtra 410401",
+        "contact":"096895 21111",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"29",
+        "hotel_name":"Bluebell Villa",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/ct35XPr/Bluebell-Villa.webp",
+        "cost":"1250",
+        "rating":"2.5",
+        "rating-text":"Average",
+        "address":"Parshwapuram , Bungalow Number 14, New Tungarli Rd, Maval, Lonavla, Maharashtra 410401",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"30",
+        "hotel_name":"TownHouse OAK Horizon",
+        "city_name":"Lonavala",
+        "city_id":"4",
+        "hotel_img":"https://i.ibb.co/CKDmFqf/Townhouse-OAK-Horizon.webp",
+        "cost":"1736",
+        "rating":"2.4",
+        "rating-text":"Fair",
+        "address":"1, New Tungarli Road, Summer Hill, Lonavala, Mawal, Lonavla, Maharashtra 410400",
+        "contact":"0124 620 1126",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"31",
+        "hotel_name":"Aaria Residency",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/88fvzq6/Aaria-Residency.webp",
+        "cost":"2427",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"bus stop, near main, Arambol, Goa 403524•098919 89809",
+        "contact":"098919 89809",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"32",
+        "hotel_name":"The Crown",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/r04X8tr/The-Crown.webp",
+        "cost":"4324",
+        "rating":"4.2",
+        "rating-text":"Very Good",
+        "address":"Bairo Alto Dos Pilotos, Rua José Falcão, Road, Panaji, Goa 403001",
+        "contact":"0832 240 0000",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"33",
+        "hotel_name":"Aurum Resort",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/SvMvWs6/Aurum-Resorts.webp",
+        "cost":"2569",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"743/K Situated at, New Wada, Morjim, Goa 403512",
+        "contact":"077190 83973",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"34",
+        "hotel_name":"Casa Aluizio",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/s2LGM91/Casa-Aluizio.webp",
+        "cost":"2780",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Socol Vaddo, Assagao, Goa 403507",
+        "contact":"098676 17781",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+            
+        ]
+
+    },
+    {
+        "hotel_id":"35",
+        "hotel_name":"Saxony Garden",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/5c7K4MQ/Saxony-Garden.webp",
+        "cost":"2188",
+        "rating":"4.8",
+        "rating-text":"Excellent",
+        "address":"102/5, Vall Tambdem, Near Sampoorna Yoga Shala, Agonda, Canacona, 403702",
+        
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"36",
+        "hotel_name":"The foothills",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/HdrNQQR/The-foothills.webp",
+        "cost":"2928",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"Shelin, Solim, Sodiem Siolim, Goa 403517•099229 44732",
+        "contact":"099229 44732",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"37",
+        "hotel_name":"Okean De Goa",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/1GJS4T0/Okean-De-Goa.webp",
+        "cost":"2452",
+        "rating":"3.5",
+        "rating-text":"Good",
+        "address":"Survey No 222/5,6,7 Ozran Vagator, Anjuna, Goa 403509•087669 76720",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    
+    {
+        "hotel_id":"38",
+        "hotel_name":"Siolim Holiday Apartment",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/KFdDHnL/Siolim-Apartments.webp",
+        "cost":"3528",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"above Burye Emporium, Siolim, Goa 403517",
+        "contact":"098221 32829",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"39",
+        "hotel_name":"La Gracia Beach Resort",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/Z2byZzv/La-Gracia.webp",
+        "cost":"2330",
+        "rating":"4.0",
+        "rating-text":"Very Good",
+        "address":"361/A, New Wada, Morjim, Goa 403512",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"40",
+        "hotel_name":"The Cliff Edge calangute",
+        "city_name":"Goa",
+        "city_id":"1",
+        "hotel_img":"https://i.ibb.co/tqbjqsQ/The-Cliff-Edge.webp",
+        "cost":"1440",
+        "rating":"3.8",
+        "rating-text":"Good",
+        "address":"4/44D(4) Calangute, near Nikhil Wines, Landmark - Porba Vaddo - 403516, Calangute, Goa 403509",
+        "contact":"070660 29157",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"41",
+        "hotel_name":"The GingerGrass",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/X23PMxf/The-Ginger-Grass.webp",
+        "cost":"1908",
+        "rating":"4.9",
+        "rating-text":"Excellent",
+        "address":"Lower Dudhli, P.O, Bharari, Shimla, Himachal Pradesh 171003",
+        "contact":"098992 91388",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"42",
+        "hotel_name":"The Best Nest",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/BZMDSVC/The-Best-Nest.webp",
+        "cost":"1558",
+        "rating":"4.8",
+        "rating-text":"Excellent",
+        "address":"Old Junga Rd, Beolia, Shimla, Himachal Pradesh 171009",
+        "contact":"075596 07777",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"43",
+        "hotel_name":"The Hill Crest",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/GtrxdLq/The-Hill-Crest.webp",
+        "cost":"2419",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Ena Lodge, Dingle Estate, Shimla, Himachal Pradesh 1710030",
+        "contact":"98103 92592",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"6",
+                "fac_name":"24 hour front Desk"
+
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+                
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"44",
+        "hotel_name":"HoneyMoon Inn",
+        "city_name":"Shimla",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/rpQMRvS/Honey-Moon-Inn.webp",
+        "cost":"4462",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"The Mall, Shimla, Himachal Pradesh 171001",
+        "contact":"0177 262 4868",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"45",
+        "hotel_name":"Tuk Tuk Backpackers",
+        "city_name":"Jaipur",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/FHq3rk8/Tuk-Tuk-Backpackers.webp",
+        "cost":"1125",
+        "rating":"4.2",
+        "rating-text":"Very Good",
+        "address":"Badodiya Scheme, Plot no - 96, Shri Ram Marg, Kabir Marg, Bani Park, Jaipur, Rajasthan 302016",
+        "contact":"096726 66880",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"46",
+        "hotel_name":"HGC Emerald",
+        "city_name":"Jaipur",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/PmPZWRq/HGC-Emerald.webp",
+        "cost":"1440",
+        "address":"12 M.I. Road, Opp Amrapura, Jaipur, 302001 Jaipur, India ",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"47",
+        "hotel_name":"Hotel Vijay Niwas",
+        "city_name":"Jaipur",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/qxwHzVL/Hotel-Vijay-Niwas.webp",
+        "cost":"889",
+        "rating":"3.5",
+        "rating-text":"Good",
+        "address":"Khandela House Behind Amber Tower, Sansar Chandre Road , 302001 Jaipur, India",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"48",
+        "hotel_name":"Trimrooms Mount",
+        "city_name":"Jaipur",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/Q6PsHcB/Trimrooms-Mount.webp",
+        "cost":"1965",
+        "rating":"4.3",
+        "rating-text":"Very Good",
+        "address":"63-A, Mount Rd, Jagdish Colony, Ramgarhmode, Chhipiwara, Parasrampuri, Jaipur, Rajasthan 302002",
+        "contact":"098998 98481",
+        "hotelType":[
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"49",
+        "hotel_name":"IHG",
+        "city_name":"Mumbai",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/Jk39Dmb/IHG.webp",
+        "cost":"4480",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"Sakinaka Junction, Andheri - Kurla Rd, Andheri East, Mumbai, Maharashtra 400072",
+        "contact":"022 4085 1800",
+        "hotelType":[
+            {
+                "cat_id":"",
+                "cat_name":"Kuxury"
+
+            },
+            {
+                "cat_id":"",
+                "cat_name":"Business"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"50",
+        "hotel_name":"Garden City",
+        "city_name":"Mumbai",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/QmYC920/Garden-City.webp",
+        "cost":"7080",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Oberoi Garden City, International Business Park, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+        "contact":"022 6147 0000",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"4",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"51",
+        "hotel_name":"The leela",
+        "city_name":"Mumbai",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/2NrFTcd/The-Leela.webp",
+        "cost":"6376",
+        "rating":"4.5",
+        "rating-text":"Excellent",
+        "address":"Sahar Airport Road, Andheri - Kurla Rd, near Mumbai International Airport, Greater Indra Nagar, Andheri East, Mumbai, Maharashtra 400059",
+        "contact":"022 6691 1234",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            }
+        ]
+        
+
+    },
+    {
+        "hotel_id":"52",
+        "hotel_name":"Taj Lands End",
+        "city_name":"Mumbai",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/bmWJwDk/Taj-Lands-End.webp",
+        "cost":"6650",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"Band Stand, BJ Road, Mount Mary, Bandra West, Mumbai, Maharashtra 400050",
+        "contact":"022 6668 1234",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"53",
+        "hotel_name":"Trisha Residency",
+        "city_name":"Lonavala",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/X53qS0m/Trisha-Residency.webp",
+        "cost":"2200",
+        "rating":"3.0",
+        "rating-text":"Fair",
+        "address":"Dr Dilip M Surana, Opposite, Lohana santorium, Tungarli, Lonavla, Maharashtra",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"54",
+        "hotel_name":"Fariyas Resort",
+        "city_name":"Lonavala",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/dDPVwjL/Fariyas-Resort.webp",
+        "cost":"7547",
+        "rating":"4.3",
+        "rating-text":"Very Good",
+        "address":"Frichley Hill Rd, Frichley Hills, Tungarli, Lonavla, Maharashtra 410401",
+        "contact":"02114 668 333",
+        "hotelType":[
+            {
+                "cat_id":"4",
+                "cat_name":"Luxury"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"55",
+        "hotel_name":"Hotel Planet Four",
+        "city_name":"Lonavala",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/bstxMrf/Hotel-Planet-Four.webp",
+        "cost":"2200",
+        "rating":"4.6",
+        "rating-text":"Excellent",
+        "address":"Indralok, Old Mumbai - Pune Hwy, opp. HP Petrol Pump, Lonavla, Maharashtra 410401",
+        "contact":"090750 88311",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            },
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"56",
+        "hotel_name":"Meritas TreeO",
+        "city_name":"Lonavala",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/tmcNd6B/Meritas-Tree-O.webp",
+        "cost":"2720",
+        "rating":"3.9",
+        "rating-text":"Good",
+        "address":"Plot No. 9, Survey No. 7, opp. Kaveri Farm, Nangargaon, Lonavla, Maharashtra 410401",
+        "contact":"090750 78931",
+        "hotelType":[
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+
+            },
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            
+            {
+                "fac_id":"4",
+                "fac_name":"Free Wifi"
+            }
+        ]
+
+    },
+    {
+        "hotel_id":"57",
+        "hotel_name":"Vivanta,Dwarka",
+        "city_name":"Delhi",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/CM68Wx5/Vivanta-Dwarka.webp",
+        "cost":"4332",
+        "rating":"4.4",
+        "rating-text":"Very Good",
+        "address":"Service Rd, Sector 21, Dwarka, Delhi, 110075",
+        "contact":"011 6600 3000",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            },
+            {
+                "cat_id":"1",
+                "cat_name":"Holiday"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Roomss"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"58",
+        "hotel_name":"Park Palaza Shahdara",
+        "city_name":"Delhi",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/QM91dBZ/Park-Palaza-Shahdara.webp",
+        "cost":"3830",
+        "rating":"4.0",
+        "rating-text":"Very Good",
+        "address":"Plot 32, Central Business Dist, Shahdara, Delhi, 110095",
+        "contact":"•011 4563 0000",
+        "hotelType":[
+            {
+                "cat_id":"3",
+                "cat_name":"Business"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"5",
+                "fac_name":"Swimming Pool"
+            },
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"59",
+        "hotel_name":"The Singh Empire",
+        "city_name":"Delhi",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/wpM1wTG/The-singh-Empire.webp",
+        "cost":"1738",
+        "rating":"3.7",
+        "rating-text":"Good",
+        "address":"8707, Desh Bandhu Gupta Rd, near Shiela cinema, Arya Nagar, Paharganj, New Delhi, Delhi 110055",
+        "contact":"011 4799 9999",
+        "hotelType":[
+            
+            {
+                "cat_id":"5",
+                "cat_name":"Adventure"
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"8",
+                "fac_name":"Wellness Center"
+            },
+            {
+                "fac_id":"3",
+                "fac_name":"Fitness Center"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+
+        ]
+
+    },
+    {
+        "hotel_id":"60",
+        "hotel_name":"Green Plaza",
+        "city_name":"Delhi",
+        "city_id":"5",
+        "hotel_img":"https://i.ibb.co/tYn9fJf/Green-Palaza.webp",
+        "cost":"1413",
+        "rating":"2.4",
+        "rating-text":"Fair",
+        "address":"Mehrauli Mahipalpur Rd, near Chhoti Redlight, Mahipalpur Extension, Mahipalpur, New Delhi, Delhi 110037",
+        "hotelType":[
+            {
+                "cat_id":"2",
+                "cat_name":"Travel"
+
+            }
+        ],
+        "facilities":[
+            {
+                "fac_id":"10",
+                "fac_name":"Airport Shuttle"
+            },
+            {
+                "fac_id":"7",
+                "fac_name":"Room Service"
+            },
+            {
+                "fac_id":"2",
+                "fac_name":"Restaurant"
+            },
+            {
+                "fac_id":"9",
+                "fac_name":"Non Smoking Rooms"
+            },
+            {
+                "fac_id":"1",
+                "fac_name":"Free Parking"
+            }
+        ]
+
+    }
+
+    
+
+    
+]
